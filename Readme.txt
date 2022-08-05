@@ -1,8 +1,10 @@
-    
+
+
  
 
 	Modules:
 The system comprises of 3 major modules with their sub-modules as follows:
+
 1. Admin
 •	Login: Admin can login using credentials.
 •	Manage Members: Admin analyses and deletes or blocks the member donating unwanted and drugs that pass their expiry dates.
@@ -26,7 +28,7 @@ The system comprises of 3 major modules with their sub-modules as follows:
  
 Project Lifecycle:
 
-Description
+Description:
 The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete. The waterfall approach does not define the process to go back to the previous phase to handle changes in requirement. The waterfall approach is the earliest approach that was used for software development.
 
 
